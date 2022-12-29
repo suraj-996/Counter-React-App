@@ -1,2 +1,2 @@
-# likecounter-react-app
+# counter-react-app
 Created with CodeSandbox
